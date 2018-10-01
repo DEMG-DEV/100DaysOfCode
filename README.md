@@ -12,11 +12,13 @@ If you made the decision to commit the challenge, click here to tweet it to the 
 ## Do the log of every day challenge
 The log contains the next things in that:
 
-- Day X: Month Day, Year, Title
+- **Day X: Month Day, Year, Title**
   - Day 0: February 30, 206, Example 11
-- Today's Progress: Example text of the today's progress.
-  - Today's Progress: Fixed CSS, worked on canvas functionality for the app.
-- Thoughts: Example text of thoughts.
-  - Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-- Link to work: the link to a page.
-  - Link to work: [Example Link](http://www.example.com/)
+- **Progress: Example text of the today's progress.**
+  - Progress: Fixed CSS, worked on canvas functionality for the app.
+- **Notes: Example text of notes.**
+  - Notes: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- **Results: Results of this day**
+  - Results: You can see the contributions on my freeCodeCamp account.
+- **Resources: the link to a page.**
+  - Resources: [Example Link](http://www.example.com/)
